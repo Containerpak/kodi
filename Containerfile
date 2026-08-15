@@ -7,3 +7,4 @@ RUN apt-get update && \
     cpak-clean-junk
 
 COPY tv.kodi.Kodi.desktop /usr/share/applications/tv.kodi.Kodi.desktop
+COPY icon.png /usr/share/icons/hicolor/128x128/apps/kodi.png

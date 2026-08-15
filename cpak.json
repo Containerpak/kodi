@@ -21,7 +21,7 @@
     "socketSessionBus": true,
     "socketSystemBus": false,
     "socketSshAgent": false,
-    "socketCups": true,
+    "socketCups": false,
     "socketGpgAgent": false,
     "socketAtSpiBus": true,
     "socketBluetooth": false,

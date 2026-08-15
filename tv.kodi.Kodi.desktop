@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Kodi
+Comment=Play and organize movies, music, television and photos.
+Exec=kodi
+Icon=kodi
+Terminal=false
+Categories=AudioVideo;Player;TV;

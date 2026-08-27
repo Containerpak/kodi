@@ -4,7 +4,7 @@
   "name": "Kodi",
   "description": "Play and organize movies, music, television and photos.",
   "version": "21.3",
-  "image": "ghcr.io/containerpak/kodi@sha256:81ad3b90bf7d26575338aa2ef3dd4ead79fe39c886c22162cf5d83747e61b662",
+  "image": "ghcr.io/containerpak/kodi@sha256:baca79fd3f3c777211a2d168334ae7703c2b74e949d234731d9f23369ef8db1d",
   "binaries": [
     "/usr/bin/kodi"
   ],
